@@ -1,12 +1,6 @@
 # Bitstream Charter
+
 This is an .otf conversion of the original PostScript 1 Bitstream Charter font. This build is based on x.org release 1.0.3.
-
-[Download](https://github.com/Peplow/Bitstream-Charter/archive/master.zip)
-
-There are four fonts included:  
-![Roman,Italic,Bold,BoldItalic](https://i.imgur.com/CpL7tOk.png)
-
-
 
 **Source files (original release):**  
 https://www.x.org/archive/individual/font/font-bitstream-type1-1.0.3.tar.gz
